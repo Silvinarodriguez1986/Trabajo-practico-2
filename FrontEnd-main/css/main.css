@@ -1,0 +1,15 @@
+body { background-color: red;
+       color: white;
+ }
+
+h2 {background-color: green;}
+#titulocolor  { color: black;}
+
+.naranja {color: orange;
+         background-color: black;
+          }
+h4 { text-decoration: underline; }
+             }
+img { height: 300px;
+      width: auto;
+    }
